@@ -1,7 +1,7 @@
 # 📊 U.S. Baby Names Analytics Project (SQL-Based Analysis)
 
 As a **Data Analyst**, I led a comprehensive SQL-based project that analyzed baby name trends across time, region, and gender using U.S. birth record data. The project covered four core analytical objectives and included data ingestion from Excel using SQL Server.
-
+![Screenshot 2025-06-19 200109](https://github.com/user-attachments/assets/74b26a98-f55c-432d-ab72-f78703ad1cf9)
 ---
 
 ## ✅ Objective 1: Track Changes in Name Popularity Over Time
